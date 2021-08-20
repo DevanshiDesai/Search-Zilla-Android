@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Event Search</string>
+    <string name="searchTabName">SEARCH</string>
+    <string name="favoritesTabName">FAVORITES</string>
+    <string name="keywordText">Keyword</string>
+    <string name="keywordHint">Enter Keyword</string>
+    <string name="categoryText">Category</string>
+    <string name="distanceText">Distance</string>
+    <string name="fromText">From</string>
+    <string name="currentRadio">Current</string>
+    <string name="otherRadio">Other. Specify Location</string>
+    <string name="otherHint">Type in the Location</string>
+    <string name="clear">Clear</string>
+    <string-array name="categoryArray">
+        <item>All</item>
+        <item>Music</item>
+        <item>Sports</item>
+        <item>Art &amp; Theatre</item>
+        <item>Film</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <string-array name="units">
+        <item>Miles</item>
+        <item>Kilometers</item>
+    </string-array>
+    <string name="artist">Artist(s)/Teams</string>
+    <string name="venue">Venue</string>
+    <string name="date">Date</string>
+    <string name="category">Category</string>
+    <string name="priceRange">Price Range</string>
+    <string name="ticketStatus">Ticket Status</string>
+    <string name="buyTicketAt">Buy Ticket At</string>
+    <string name="seatMap">Seat Map</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="phoneNo">Phone Number</string>
+    <string name="openHours">Open Hours</string>
+    <string name="generalRule">General Rule</string>
+    <string name="childRule">Child Rule</string>
+
+</resources>
